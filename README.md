@@ -117,7 +117,7 @@ Me chamo Maria Eduarda, tenho 22 anos e sou natural do Goiás. Concluí o ensino
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"  
+      height="100"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaRochaSilvaCosta&theme=jolly&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
