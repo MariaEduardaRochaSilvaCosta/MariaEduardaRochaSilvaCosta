@@ -111,14 +111,14 @@ Me chamo Maria Eduarda, tenho 22 anos e sou natural do Goiás. Concluí o ensino
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MariaEduardaRochaSilvaCosta&show_icons=true&theme=joly&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MariaEduardaRochaSilvaCosta&show_icons=true&theme=jolly&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaRochaSlvaCosta&theme=jolly&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaRochaSilvaCosta&theme=jolly&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
